@@ -34,7 +34,7 @@ Follow this map to explore every corner of the Golden Age. Each link takes you t
 | **3.**  | [Samudragupta: The Indian Napoleon](./segment-3-samudragupta.md) | ✅ Ready to Explore |
 | **4.**  | [Chandragupta II: The Sun of Power](./segment-4-chandragupta-ii.md) | ✅ Ready to Explore |
 | **5.**  | [Administration, Society & Religion](./segment-5-administration.md) | ✅ Ready to Explore |
-| **6.**  | [Cultural & Scientific Developments](./segment-6-cultural-developments.md) | ✅ Ready to Explore |
+| **6.**  | [Cultural & Scientific Developments](./segment-6-culture-science-art.md) | ✅ Ready to Explore |
 
 ---
 

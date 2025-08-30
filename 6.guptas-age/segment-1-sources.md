@@ -37,14 +37,12 @@ Welcome to the world of historical detection, where every artifact tells a story
 **Literary Sources: The Written Testimonies**
 
 ```mermaid
-flowchart TD
-  FaHien["Fa-Hien's Fo-Kwo-Ki<br/>Travel diary, social & religious life"]
-  Kalidasa["Kalidasa's Works<br/>Court culture, ideals, drama"]
-  Vishakhadatta["Vishakhadatta's Devi Chandraguptam<br/>Political drama, rise of Chandragupta II"]
-  VayuPurana["Vayu Purana<br/>Genealogies, chronology of rulers"]
-  FaHien -- "Describes social & religious life" --> Kalidasa
-  FaHien -- "Mentions court culture & drama" --> Vishakhadatta
-  FaHien -- "Provides context for genealogies" --> VayuPurana
+mindmap
+  LiterarySources((Literary Sources of Gupta Age))
+    FaHien[Fa-Hien's Fo-Kwo-Ki\nTravel diary, social & religious life]
+    Kalidasa[Kalidasa's Works\nCourt culture, ideals, drama]
+    Vishakhadatta[Vishakhadatta's Devi Chandraguptam\nPolitical drama, rise of Chandragupta II]
+    VayuPurana[Vayu Purana\nGenealogies, chronology of rulers]
 ```
 
 *Caption: Block diagram showing the main literary sources and how each contributes to our understanding of the Gupta Age*
@@ -64,14 +62,12 @@ The ancient Puranas, especially the Vayu Purana, serve as our genealogical guide
 **Archaeological Sources: The Silent Witnesses**
 
 ```mermaid
-flowchart TD
-  AllahabadPillar["Allahabad Pillar Inscription<br/>Military conquests, Samudragupta's reign"]
-  IronPillar["Iron Pillar at Mehrauli<br/>Engineering, victories of Chandragupta II"]
-  GuptaCoins["Gupta Coins<br/>Portraits, titles, religious beliefs"]
-  Nalanda["Ruins of Nalanda University<br/>Education, libraries, global students"]
-  AllahabadPillar -- "Commemorates victories" --> IronPillar
-  AllahabadPillar -- "Depicts royal achievements" --> GuptaCoins
-  AllahabadPillar -- "Records Gupta patronage of education" --> Nalanda
+mindmap
+  ArchaeologicalSources((Archaeological Sources of Gupta Age))
+    AllahabadPillar[Allahabad Pillar Inscription\nMilitary conquests, Samudragupta's reign]
+    IronPillar[Iron Pillar at Mehrauli\nEngineering, victories of Chandragupta II]
+    GuptaCoins[Gupta Coins\nPortraits, titles, religious beliefs]
+    Nalanda[Nalanda University Ruins\nEducation, libraries, global students]
 ```
 
 *Caption: Block diagram showing the main archaeological sources and how each reveals a different aspect of the Gupta Age*

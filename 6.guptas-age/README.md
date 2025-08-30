@@ -23,29 +23,45 @@ Learning about the Guptas isn't about memorizing facts. It's about discovering t
 
 ---
 
-### �️ Your Adventure Map: Table of Contents
+### 🗺️ Your Adventure Map: Table of Contents
 
 Follow this map to explore every corner of the Golden Age. Each link takes you to a new adventure!
 
-| Segment | Topic | Status |
-| :--- | :--- | :--- |
-| **1.** | [**Unlocking the Past: How We Know About the Guptas**](./Gupta-Empire-Study-Module.md) | ✅ **Ready to Explore** |
-| **2.** | [**The First Great King: Chandragupta I**](./segment-2-chandragupta-i.md) | 🚧 Coming Soon |
-| **3.** | [**The "Indian Napoleon": Samudragupta**](./segment-3-samudragupta.md) | 🚧 Coming Soon |
-| **4.** | [**The Golden Zenith: Chandragupta II**](./segment-4-chandragupta-ii.md) | 🚧 Coming Soon |
-| **5.** | [**Governing the Empire: Administration**](./segment-5-administration.md) | 🚧 Coming Soon |
-| **6.** | [**A Flourishing of Genius: Culture, Science & Art**](./segment-6-culture-science-art.md) | 🚧 Coming Soon |
+| Segment | Topic                                            | Status                |
+| :------ | :----------------------------------------------- | :-------------------- |
+| **1.**  | [The Sources of History](./segment-1-sources.md) | ✅ Ready to Explore |
+| **2.**  | [The Rise of Chandragupta I](./segment-2-chandragupta-i.md) | ✅ Ready to Explore |
+| **3.**  | [Samudragupta: The Indian Napoleon](./segment-3-samudragupta.md) | ✅ Ready to Explore |
+| **4.**  | [Chandragupta II: The Sun of Power](./segment-4-chandragupta-ii.md) | ✅ Ready to Explore |
+| **5.**  | [Administration, Society & Religion](./segment-5-administration.md) | ✅ Ready to Explore |
+| **6.**  | [Cultural & Scientific Developments](./segment-6-cultural-developments.md) | ✅ Ready to Explore |
 
 ---
 
-### 🗓️ Your Weekly Study Plan for Success
+### ✨ The Titans of the Golden Age: A Quick Reference
+
+The Gupta Age was forged by legendary rulers and brilliant minds. Here are the icons who made this era unforgettable.
+
+| Category      | Titan(s)                               | Enduring Legacy                                                                                             |
+| :------------ | :------------------------------------- | :---------------------------------------------------------------------------------------------------------- |
+| **The Kings** | **Chandragupta I**                     | Founder of the empire; used strategic marriage to gain power.                                               |
+|               | **Samudragupta**                       | The "Indian Napoleon"; a military genius and a master musician who greatly expanded the empire.             |
+|               | **Chandragupta II (Vikramaditya)**     | Ruled at the empire's zenith; defeated the Sakas and presided over the legendary "Nine Gems" court.         |
+| **The Geniuses**| **Kalidasa**                           | The "Shakespeare of India"; author of timeless plays (*Shakuntala*) and poems (*Meghaduta*).                |
+|               | **Aryabhatta**                         | Master astronomer/mathematician; gifted the world the decimal system, **zero**, and the theory of heliocentrism. |
+|               | **Sushruta**                           | The "Father of Surgery"; pioneered complex operations, including plastic surgery.                           |
+| **The Marvels** | **Nalanda University**                 | A world-renowned center of learning that attracted scholars from across Asia.                               |
+|               | **The Iron Pillar of Delhi**           | A 1,600-year-old rustless iron pillar, showcasing incredible metallurgical skill.                           |
+
+---
+
+### 🗓️ Your Study Plan for Success
 
 History is a story, not a race. Here’s how to master this chapter without stress:
 
-1.  **One Segment a Day:** Spend about 20-30 minutes on one segment each day. Read the story, look at the diagrams, and try the memory hooks.
-2.  **Use the Checkpoints:** Don't skip the "Active Recall Checkpoints"! Answering those questions is the best way to lock the information in your brain.
-3.  **Weekend Revision:** At the end of the week, read the complete [**Gupta Empire Study Module**](./Gupta-Empire-Study-Module.md) file to connect all the dots.
-4.  **Practice for Exams:** Before your exams, focus on the "Strict Exam Mode" section to practice writing perfect answers.
+1.  **One Segment a Day:** Spend about 20-30 minutes on one segment each day. Read the story and review the summary tables.
+2.  **Weekend Revision:** At the end of the week, quickly read through all the segments to connect the dots and see the bigger picture.
+3.  **Practice for Exams:** Before your exams, use the "Quick Reference" tables in each section to practice recalling key facts and figures.
 
 This simple plan uses **spaced repetition**—a science-backed way to ensure you remember what you learn.
 
@@ -56,35 +72,3 @@ This simple plan uses **spaced repetition**—a science-backed way to ensure you
 This chapter might seem big, but you are about to meet some of the most fascinating characters in Indian history. You'll learn their stories, understand their achievements, and see how they shaped the world.
 
 Trust the process, follow the plan, and you won't just be ready for your exams—you'll truly understand this incredible period. Now go on, your adventure into the Golden Age awaits!
-
----
-
-### 🌟 The Titans of the Golden Age: Kings, Scholars, and Marvels
-
-The Gupta Age was forged by legendary rulers and brilliant minds whose achievements still echo through time. Let's celebrate the icons who made this era unforgettable:
-
-**The Great Kings**
-
-- **Chandragupta I**: The visionary founder who laid the groundwork for the empire. By uniting with the powerful Lichchhavi princess Kumaradevi, he transformed a minor kingdom into a dominant force, earning the title *Maharajadhiraja* ("king of great kings").
-
-- **Samudragupta**: The "Indian Napoleon," a military genius who conquered vast territories from the Himalayas to the Narmada. Yet, he was more than a conqueror; he was a masterful musician, an expert Veena player, and a patron of the arts, embodying the perfect blend of power and culture.
-
-- **Chandragupta II (Vikramaditya)**: The ruler who took the empire to its zenith. He defeated the powerful Sakas, expanded trade to Europe, and presided over a court of the legendary **Nav Ratnas** (Nine Gems)—a circle of the greatest scholars, poets, and scientists of the age.
-
-**The Geniuses and Their Creations**
-
-- **Kalidasa**: The "Shakespeare of India," whose plays like *Shakuntala* and poems like *Meghaduta* are timeless masterpieces that capture the beauty of nature and the depth of human emotion.
-
-- **Aryabhatta**: The master astronomer and mathematician who gifted the world the decimal system and the concept of **zero**. He calculated the value of Pi (π) and proposed that the Earth revolves around the sun—a revolutionary idea over a thousand years before Copernicus!
-
-- **Sushruta**: Known as the "Father of Surgery," his *Sushruta Samhita* laid the foundation for modern medicine. From cataract surgeries to reconstructive techniques, his pioneering methods were centuries ahead of their time.
-
-- **Vishnu Sharma**: The brilliant storyteller who authored the *Panchatantra*. These timeless fables, using animal characters to teach wisdom and statecraft, have been translated into countless languages and continue to be loved worldwide.
-
-**The Enduring Marvels**
-
-- **Nalanda University**: A beacon of knowledge that attracted scholars from across the globe. With its vast libraries and diverse curriculum, it symbolized India's leadership in education and philosophy.
-
-- **The Iron Pillar of Delhi**: A stunning feat of engineering. This pillar has stood for over 1,600 years, exposed to the elements, without a single spot of rust—a silent testament to the incredible scientific prowess of Gupta craftsmen.
-
-These titans and their creations remind us why the Gupta Age is celebrated as a "Golden Age." Their achievements continue to inspire and shape the world we live in today.

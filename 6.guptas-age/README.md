@@ -29,13 +29,13 @@ Follow this map to explore every corner of the Golden Age. Each link takes you t
 
 | Segment | Topic                                            | Status                |
 | :------ | :----------------------------------------------- | :-------------------- |
-| **1.**  | [The Sources of History](./segment-1-sources.md) | ✅ Ready to Explore |
-| **2.**  | [The Rise of Chandragupta I](./segment-2-chandragupta-i.md) | ✅ Ready to Explore |
-| **3.**  | [Samudragupta: The Indian Napoleon](./segment-3-samudragupta.md) | ✅ Ready to Explore |
-| **4.**  | [Chandragupta II: The Sun of Power](./segment-4-chandragupta-ii.md) | ✅ Ready to Explore |
-| **5.**  | [Administration, Society & Religion](./segment-5-administration.md) | ✅ Ready to Explore |
-| **6.**  | [Cultural & Scientific Developments](./segment-6-culture-science-art.md) | ✅ Ready to Explore |
-| **Q&A** | [Gupta Age: Enhanced Q&A](./Gupta_Age_QA_Formatted.md) | ✨ New & Enhanced |
+| **1.**  | [The Sources of History](./1.sources.md) | ✅ Ready to Explore |
+| **2.**  | [The Rise of Chandragupta I](./2.chandragupta-i.md) | ✅ Ready to Explore |
+| **3.**  | [Samudragupta: The Indian Napoleon](./3.samudragupta.md) | ✅ Ready to Explore |
+| **4.**  | [Chandragupta II: The Sun of Power](./4.chandragupta-ii.md) | ✅ Ready to Explore |
+| **5.**  | [Administration, Society & Religion](./5.administration.md) | ✅ Ready to Explore |
+| **6.**  | [Cultural & Scientific Developments](./6.culture-science-art.md) | ✅ Ready to Explore |
+| **Q&A** | [Gupta Age: Enhanced Q&A](./7.Questions%20&%20Answers.md) | ✨ New & Enhanced |
 
 ---
 

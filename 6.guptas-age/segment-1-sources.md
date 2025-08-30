@@ -113,15 +113,15 @@ kanban
     Literary Sources
     Archaeological Sources
   Literary Sources:
-    "1. Fa-Hien's Fo-Kwo-Ki<br/>Travel diary, social & religious life"
-    "2. Kalidasa's Works<br/>Court culture, ideals, drama"
-    "3. Vishakhadatta's Devi Chandraguptam<br/>Political drama, rise of Chandragupta II"
-    "4. Vayu Purana<br/>Genealogies, chronology of rulers"
+    1. Fa-Hien's Fo-Kwo-Ki<br/>Travel diary, social & religious life
+    2. Kalidasa's Works<br/>Court culture, ideals, drama
+    3. Vishakhadatta's Devi Chandraguptam<br/>Political drama, rise of Chandragupta II
+    4. Vayu Purana<br/>Genealogies, chronology of rulers
   Archaeological Sources:
-    "1. Allahabad Pillar Inscription<br/>Military conquests, Samudragupta's reign"
-    "2. Iron Pillar at Mehrauli<br/>Engineering, victories of Chandragupta II"
-    "3. Gupta Coins<br/>Portraits, titles, religious beliefs"
-    "4. Nalanda University Ruins<br/>Education, libraries, global students"
+    1. Allahabad Pillar Inscription<br/>Military conquests, Samudragupta's reign
+    2. Iron Pillar at Mehrauli<br/>Engineering, victories of Chandragupta II
+    3. Gupta Coins<br/>Portraits, titles, religious beliefs
+    4. Nalanda University Ruins<br/>Education, libraries, global students
 ```
 
 *Caption: Kanban board showing how historians organize the main sources for reconstructing the Gupta Golden Age*

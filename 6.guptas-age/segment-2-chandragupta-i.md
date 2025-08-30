@@ -9,7 +9,7 @@
   - [🎬 The Documentary Story](#-the-documentary-story)
   - [🔑 Memory Hooks](#-memory-hooks)
   - [🎨 Visual Learning](#-visual-learning)
-  - [🗂️ Visual Kanban: Chandragupta I's Path to Power](#️-visual-kanban-chandragupta-is-path-to-power)
+  - [🗂️ User Journey: Chandragupta I's Rise to Power](#️-user-journey-chandragupta-is-rise-to-power)
   - [🗓️ Timeline: Chandragupta I's Reign](#️-timeline-chandragupta-is-reign)
   - [🧠 Active Recall \& Exam Practice](#-active-recall--exam-practice)
     - [60-Second Cram Card](#60-second-cram-card)
@@ -49,24 +49,26 @@ With his power consolidated, Chandragupta I began a systematic campaign of expan
 ---
 
 ## 🎨 Visual Learning
-## 🗂️ Visual Kanban: Chandragupta I's Path to Power
+
+## 🗂️ User Journey: Chandragupta I's Rise to Power
 
 ```mermaid
-kanban
-  title Chandragupta I: Path to Power
-  columns
-    Strategy
-    Achievements
-  Strategy:
-    [Adopts title Maharajadhiraja<br/>Signals imperial ambition]
-    [Marries Kumaradevi<br/>Lichchhavi alliance]
-    [Issues gold coins<br/>Celebrates marriage]
-  Achievements:
-    [Expands empire<br/>Magadha, Prayag, Saketa]
-    [Founds Gupta Era<br/>319/320 CE]
-    [Establishes dynasty<br/>Father of Samudragupta]
+journey
+    title Chandragupta I: Journey to Empire
+    section Beginnings
+      Minor Chief: 1: Chandragupta I starts as a local ruler
+    section Ambition
+      Adopts Maharajadhiraja: 2: Declares imperial ambition
+    section Alliances
+      Marries Kumaradevi: 3: Strategic alliance with Lichchhavis
+      Issues Gold Coins: 2: Celebrates marriage and alliance
+    section Expansion
+      Conquers Magadha, Prayag, Saketa: 3: Expands territory
+    section Legacy
+      Founds Gupta Era: 2: Marks new historical epoch
+      Establishes Dynasty: 2: Father of Samudragupta
 ```
-*Caption: Kanban board showing Chandragupta I's strategies and achievements.*
+*Caption: User journey diagram showing the step-by-step rise of Chandragupta I to empire builder.*
 
 ## 🗓️ Timeline: Chandragupta I's Reign
 

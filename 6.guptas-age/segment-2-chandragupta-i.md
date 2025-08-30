@@ -85,10 +85,10 @@ timeline
 ```mermaid
 mindmap
   root((Chandragupta I<br/>The Empire Builder))
-    Title["Maharajadhiraja<br/>(King of Great Kings)"]
-    Marriage[Strategic Marriage<br/>to Kumaradevi (Lichchhavi Princess)]
+    Title["Maharajadhiraja<br/>King of Great Kings"]
+    Marriage[Strategic Marriage<br/>to Kumaradevi <Lichchhavi Princess>]
     Expansion[Territorial Expansion<br/>Magadha, Prayag, Saketa]
-    Legacy[Founder of the Gupta Era<br/>(Starting 319/320 CE)]
+    Legacy[Founder of the Gupta Era<br/>Starting 319/320 CE]
     Commemoration[Gold Coins<br/>Featuring King & Queen]
 ```
 *Caption: A mindmap summarizing the key strategies and achievements of Chandragupta I.*

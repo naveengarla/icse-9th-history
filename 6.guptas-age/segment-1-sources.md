@@ -9,14 +9,6 @@
   - [🔑 Memory Hooks](#-memory-hooks)
   - [🗂️ Visual Kanban: Sources of Gupta History](#️-visual-kanban-sources-of-gupta-history)
   - [🧠 Recall Check](#-recall-check)
-  - [📌 Exam Keywords](#-exam-keywords)
-  - [⚡ Mid-Section Quickfire](#-mid-section-quickfire)
-  - [📚 STRICT EXAM MODE](#-strict-exam-mode)
-    - [One-Mark Questions:](#one-mark-questions)
-    - [Short Answer Questions (2-3 marks):](#short-answer-questions-2-3-marks)
-    - [Long Answer Questions (5 marks):](#long-answer-questions-5-marks)
-  - [🎯 One-Sitting Lock-In](#-one-sitting-lock-in)
-    - [Blind Recall Sheet](#blind-recall-sheet)
     - [60-Second Cram Card](#60-second-cram-card)
     - [Long-Answer Drill (5 minutes)](#long-answer-drill-5-minutes)
   - [📖 Glossary \& Deep Dive](#-glossary--deep-dive)
@@ -45,7 +37,7 @@ mindmap
     VayuPurana[Vayu Purana<br/>Genealogies, chronology of rulers]
 ```
 
-*Caption: Block diagram showing the main literary sources and how each contributes to our understanding of the Gupta Age*
+*Caption: Mindmap showing the main literary sources and how each contributes to our understanding of the Gupta Age*
 
 The first star witness in our historical court is Fa-Hien, a brave Buddhist monk from China. In 399 CE, he embarked on an extraordinary journey—walking thousands of miles across treacherous mountains and endless deserts to reach India during the reign of Chandragupta II (Vikramaditya). Fa-Hien was like an ancient travel blogger, documenting everything he saw in his book "Fo-Kwo-Ki" (A Record of Buddhist Kingdoms).
 
@@ -70,7 +62,7 @@ mindmap
     Nalanda[Nalanda University Ruins<br/>Education, libraries, global students]
 ```
 
-*Caption: Block diagram showing the main archaeological sources and how each reveals a different aspect of the Gupta Age*
+*Caption: Mindmap showing the main archaeological sources and how each reveals a different aspect of the Gupta Age*
 
 While literary sources tell us what people thought and felt, archaeological sources show us what actually happened. The most spectacular piece of evidence is the Allahabad Pillar Inscription, also known as the Prayaga Prashasti. Imagine Samudragupta, flush with victory after conquering vast territories, commissioning his court poet Harisena to compose a grand eulogy that would be carved in Sanskrit on an ancient pillar built by Emperor Ashoka centuries earlier.
 
@@ -198,242 +190,12 @@ kanban
 24. Mild, mostly fines, rare capital punishment
 25. Free hospital in Pataliputra
 26. Sanskrit
-27. Written inscription as historical evidence
-28. Portraits, titles, religious beliefs
-29. International reputation for learning
-30. Another name for Allahabad Pillar Inscription
-31. Harisena
-32. Celebrates victories of Chandragupta II, shows engineering skill
-33. Chandragupta II
-34. Shows what actually happened, physical evidence
-35. Shows what people thought, felt, and recorded
-36. Direct evidence from the time (e.g., inscriptions, coins)
-37. Abhijnanashakuntalam
-38. Court poet, composed Allahabad Pillar Inscription
-39. Shows prosperity, artistic skill, religious beliefs
-40. Ocean of Gems (library at Nalanda)
-
----
-
-## 📌 Exam Keywords
-
-**ICSE Examiner Language:** *sources, reconstruction, inscription, archaeological evidence, literary accounts, chronology, contemporary records, epigraphic sources, numismatic evidence, foreign accounts*
-
----
-
-## ⚡ Mid-Section Quickfire
-
-**Rapid-Fire Questions (1 mark each):**
-
-
-1. Name one literary and one archaeological source for the Gupta period.
-2. Who was Fa-Hien?
-3. What is the other name for the Allahabad Pillar Inscription?
-4. Which metal was used for most Gupta coins?
-5. Name the founder of Nalanda University.
-6. What was Vishakhadatta's famous political play called?
-7. Which Purana gives genealogical information about the Guptas?
-8. What instrument is Samudragupta shown playing on his coins?
-9. Who wrote the Allahabad Pillar Inscription?
-10. Name the capital city of the Gupta Empire.
-11. What does "Maharajadhiraja" mean?
-12. Name one charitable institution mentioned by Fa-Hien.
-13. Which ruler is associated with the Iron Pillar at Mehrauli?
-14. What is numismatic evidence?
-15. Name the three great libraries of Nalanda University.
-16. What language were most Gupta inscriptions written in?
-17. Who was Kalidasa?
-18. What is the significance of the Vayu Purana?
-19. Name a group treated as outcasts in Gupta society.
-20. What is an epigraphic source?
-21. What is the meaning of "Ratnasagar"?
-22. Name a foreign visitor to India during the Gupta period.
-23. What does the Iron Pillar inscription celebrate?
-24. What is the role of Harisena in Gupta history?
-25. What is the historical value of Gupta coins?
-26. What subjects were taught at Nalanda University?
-27. What was the legal system like during the Gupta period?
-28. Why did students from other countries come to Nalanda?
-29. What is the meaning of "Prayaga Prashasti"?
-30. What is the main purpose of the Allahabad Pillar Inscription?
-31. Name a drama written during the Gupta period.
-32. What is the significance of gold coins in the Gupta period?
-33. Which dynasty is known as the "Golden Age" of Indian civilization?
-34. What is the role of archaeological sources in history?
-35. What is the importance of literary sources?
-36. What is a primary source in history?
-37. Name a charitable act described by Fa-Hien.
-38. What is the meaning of "Ratnodadhi"?
-39. Name a monument built during the Gupta period.
-40. What is the meaning of "Ratnaranjak"?
-
-**Answers:**
-1. Literary: Fa-Hien's account; Archaeological: Allahabad Pillar Inscription
-2. Chinese Buddhist monk who visited India during Chandragupta II's reign
-3. Prayaga Prashasti
-4. Gold
-5. Kumaragupta I
-6. Devi Chandraguptam
-7. Vayu Purana
-8. Veena
-9. Harisena
-10. Pataliputra
-11. King of Kings
-12. Free hospital in Pataliputra
-13. Chandragupta II
-14. Evidence from coins
-15. Ratnasagar, Ratnodadhi, Ratnaranjak
-16. Sanskrit
-17. Court poet, wrote Abhijnanashakuntalam
-18. Provides genealogical records of Gupta rulers
-19. Chandalas
-20. Written inscription as historical evidence
-21. Ocean of Gems (library at Nalanda)
-22. Fa-Hien
-23. Victories of Chandragupta II
-24. Court poet, composed Allahabad Pillar Inscription
-25. Shows portraits, titles, religious beliefs, prosperity
-26. Vedas, logic, grammar, medicine, Buddhist philosophy
-27. Mild, mostly fines, rare capital punishment
-28. International reputation for learning
-29. Another name for Allahabad Pillar Inscription
-30. To record Samudragupta's military achievements
-31. Abhijnanashakuntalam
-32. Shows prosperity, artistic skill, religious beliefs
-33. Gupta dynasty
-34. Shows what actually happened, physical evidence
-35. Shows what people thought, felt, and recorded
-36. Direct evidence from the time (e.g., inscriptions, coins)
-37. Free hospital for strangers
-38. Ocean of Jewels (library at Nalanda)
-39. Nalanda University
-40. Jewel Adorned (library at Nalanda)
-
----
-
-## 📚 STRICT EXAM MODE
-
-### One-Mark Questions:
-
-1. Name the famous inscription that tells us about Samudragupta's military achievements.
-2. What is the title of the book Fa-Hien wrote about India?
-3. Who destroyed Nalanda University?
-4. During whose reign did Fa-Hien visit India?
-5. Name the founder of Nalanda University.
-6. What was Vishakhadatta's famous political play called?
-7. Which Purana gives genealogical information about the Guptas?
-8. What instrument is Samudragupta shown playing on his coins?
-9. Who wrote the Allahabad Pillar Inscription?
-10. Name the capital city of the Gupta Empire.
-11. What does "Maharajadhiraja" mean?
-12. Name one charitable institution mentioned by Fa-Hien.
-13. Which ruler is associated with the Iron Pillar at Mehrauli?
-14. What is numismatic evidence?
-15. Name the three great libraries of Nalanda University.
-16. What language were most Gupta inscriptions written in?
-17. Who was Kalidasa?
-18. What is the significance of the Vayu Purana?
-19. Name a group treated as outcasts in Gupta society.
-20. What is an epigraphic source?
-21. What is the meaning of "Ratnasagar"?
-22. Name a foreign visitor to India during the Gupta period.
-23. What does the Iron Pillar inscription celebrate?
-24. What is the role of Harisena in Gupta history?
-25. What is the historical value of Gupta coins?
-26. What subjects were taught at Nalanda University?
-27. What was the legal system like during the Gupta period?
-28. Why did students from other countries come to Nalanda?
-29. What is the meaning of "Prayaga Prashasti"?
-30. What is the main purpose of the Allahabad Pillar Inscription?
-31. Name a drama written during the Gupta period.
-32. What is the significance of gold coins in the Gupta period?
-33. Which dynasty is known as the "Golden Age" of Indian civilization?
-34. What is the role of archaeological sources in history?
-35. What is the importance of literary sources?
-36. What is a primary source in history?
-37. Name a charitable act described by Fa-Hien.
-38. What is the meaning of "Ratnodadhi"?
-39. Name a monument built during the Gupta period.
-40. What is the meaning of "Ratnaranjak"?
-
-### Short Answer Questions (2-3 marks):
-
-1. What did Fa-Hien write about the city of Pataliputra?
-2. Who was the greatest literary genius of the Gupta period? Name two of his works.
-3. What does the Allahabad Pillar Inscription tell us about Samudragupta?
-4. List any three features of Nalanda University during the Gupta period.
-5. Explain the significance of Gupta coins as historical sources.
-6. How did Fa-Hien describe the social conditions in Gupta India?
-7. What information do we get from the Vayu Purana about the Guptas?
-8. State two reasons why the Gupta period is called the "Golden Age" of India.
-9. What does the Iron Pillar inscription reveal about Chandragupta II?
-10. Mention two ways in which archaeological sources differ from literary sources.
-11. What was the role of Harisena in Gupta history?
-12. Name two charitable institutions mentioned by Fa-Hien and their importance.
-13. How did the legal system function during the Gupta period?
-14. List any two foreign visitors to India during the Gupta period and their contributions.
-15. What do the three libraries of Nalanda University tell us about education in Gupta times?
-16. How did the Guptas promote religious tolerance?
-17. What is meant by numismatic evidence? Give two examples from the Gupta period.
-18. State two facts about the Chandalas in Gupta society.
-19. How do inscriptions help historians reconstruct ancient history?
-20. What is the importance of epigraphic sources in the study of the Gupta Age?
-
-### Long Answer Questions (5 marks):
-
-1. **"There are many literary sources to reconstruct the Age of the Guptas."** In this context, explain the significance of Fa-Hien's account.
-
-**Model Answer Structure:**
-- **Introduction:** Fa-Hien as a valuable foreign contemporary source
-- **His journey:** Chinese Buddhist monk visiting during Chandragupta II's reign (399 CE)
-- **His observations:** Prosperous society, mild governance, religious tolerance, social conditions
-- **Historical significance:** Provides unbiased external perspective on Gupta administration and society
-- **Conclusion:** Confirms the prosperity and enlightened rule of the Gupta period
-
-2. **Regarding archaeological sources, explain the significance of: (a) Allahabad Pillar Inscription (b) Nalanda University**
-
-**Model Answer for (a):**
-- **Identification:** Most important epigraphic source for Samudragupta's reign
-- **Details:** Written by court poet Harisena, carved on Ashokan pillar
-- **Content:** Detailed list of conquered territories and defeated rulers
-- **Historical value:** Provides firsthand account of military campaigns and imperial policies
-- **Significance:** Called "single record" on which rests Samudragupta's fame
-
-**Model Answer for (b):**
-- **Identification:** World-renowned educational institution founded by Kumaragupta I
-- **Features:** Three great libraries, international student body, diverse curriculum
-- **Subjects:** Vedas, logic, grammar, medicine, Buddhist philosophy
-- **Significance:** Demonstrates Gupta commitment to education and learning
-- **Global impact:** Attracted students from China, Tibet, Korea, making it an international center
-
-3. **"Coins and inscriptions are more reliable than literary sources for reconstructing ancient history." Discuss with reference to the Gupta period.**
-
-4. **Describe the contributions of Kalidasa and Vishakhadatta to our understanding of Gupta society and culture.**
-
-5. **Compare and contrast the information provided by literary and archaeological sources about the Gupta Age.**
-
-6. **Explain the role of Nalanda University in the cultural and educational development of the Gupta period.**
-
-7. **How do foreign accounts, such as those of Fa-Hien, complement Indian sources in reconstructing the history of the Guptas?**
-
-8. **Discuss the importance of religious tolerance and social conditions in the Gupta Empire, as revealed by various sources.**
-
----
-
-## 🎯 One-Sitting Lock-In
-
-### Blind Recall Sheet
-**Write down 10 key facts about Gupta sources without looking:**
-1. ________________
-2. ________________
-3. ________________
-4. ________________
-5. ________________
-6. ________________
-7. ________________
-8. ________________
-9. ________________
-10. ________________
+5. The play written by Vishakhadatta: ________________
+6. The metal used for most Gupta coins: ________________
+7. The three libraries of Nalanda: ________________
+8. The court poet who wrote Allahabad Pillar Inscription: ________________
+9. The term for coin evidence: ________________
+10. The meaning of "Maharajadhiraja": ________________
 
 ### 60-Second Cram Card
 **Gupta Sources Summary (<120 words):**
@@ -518,33 +280,15 @@ Literary sources include Fa-Hien's Fo-Kwo-Ki describing prosperous Gupta society
 ## 🎨 Visual Learning
 
 ```mermaid
-mindmap
-  root((Gupta Sources))
-    Literary
-      Fa-Hien Account
-        Travel Diary
-        Social Conditions
-        Religious Tolerance
-      Court Literature
-        Kalidasa Poetry
-        Vishakhadatta Drama
-      Religious Texts
-        Vayu Purana
-        Genealogies
-    Archaeological  
-      Inscriptions
-        Allahabad Pillar
-        Iron Pillar Mehrauli
-      Coins
-        Gold Currency
-        Royal Portraits
-        Divine Images
-      Monuments
-        Nalanda University
-        Temple Ruins
+flowchart TD
+  Evidence["Evidence Discovered<br/>(e.g., Coin, Inscription, Monument)"]
+  Analysis["Analysis<br/>(Numismatics, Epigraphy, Archaeology)"]
+  Inference["Inference<br/>(Economic Prosperity, Ruler's Title, Social Conditions)"]
+  Reconstruction["Reconstruction of History<br/>(Gupta Golden Age)"]
+  Evidence --> Analysis --> Inference --> Reconstruction
 ```
 
-*Caption: The two main categories of sources that help historians reconstruct the Gupta Golden Age*
+*Caption: Flowchart showing how historians use sources to reconstruct the Gupta Golden Age*
 
 ```mermaid
 timeline

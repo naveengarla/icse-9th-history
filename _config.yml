@@ -1,0 +1,16 @@
+theme: minima
+title: ICSE 9th History
+description: Comprehensive study materials for ICSE 9th grade History
+
+# Build settings
+markdown: kramdown
+
+# Navigation
+header_pages:
+  - 6.guptas-age/README.md
+
+# Collections
+collections:
+  chapters:
+    output: true
+    permalink: /:collection/:name/

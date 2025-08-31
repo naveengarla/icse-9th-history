@@ -36,7 +36,7 @@ Follow this map to explore every corner of the Golden Age. Each link takes you t
 | **5.**  | [Administration, Society & Religion](./5.administration.md) | ✅ Ready to Explore |
 | **6.**  | [Cultural & Scientific Developments](./6.culture-science-art.md) | ✅ Ready to Explore |
 | **Q&A** | [Gupta Age: Enhanced Q&A](./7-questions-answers.md) | ✨ New & Enhanced |
-| **8.**  | [Quick Recap for Exam](./8.quick-recap-for-exam.md) | ✨ New Addition |
+| **8.**  | [Quick Recap for Exam](./8.quick-recap-for-exam.md) | 🎯 Exam Ready |
 
 ---
 

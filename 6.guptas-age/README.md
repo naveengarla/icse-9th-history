@@ -36,10 +36,7 @@ Follow this map to explore every corner of the Golden Age. Each link takes you t
 | **5.**  | [Administration, Society & Religion](./5.administration.md) | ✅ Ready to Explore |
 | **6.**  | [Cultural & Scientific Developments](./6.culture-science-art.md) | ✅ Ready to Explore |
 | **Q&A** | [Gupta Age: Enhanced Q&A](./7-questions-answers.md) | ✨ New & Enhanced |
-<<<<<<< HEAD
 | **8.**  | [Quick Recap for Exam](./8.quick-recap-for-exam.md) | ✨ New Addition |
-=======
->>>>>>> 9995da9a9a313bd79914ae5581a6b75798601b61
 
 ---
 
@@ -57,20 +54,6 @@ The Gupta Age was forged by legendary rulers and brilliant minds. Here are the i
 |               | **Sushruta**                           | The "Father of Surgery"; pioneered complex operations, including plastic surgery.                           |
 | **The Marvels** | **Nalanda University**                 | A world-renowned center of learning that attracted scholars from across Asia.                               |
 |               | **The Iron Pillar of Delhi**           | A 1,600-year-old rustless iron pillar, showcasing incredible metallurgical skill.                           |
-
----
-
-### 🗓️ Your Study Plan for Success
-
-History is a story, not a race. Here’s how to master this chapter without stress:
-
-1.  **One Segment a Day:** Spend about 20-30 minutes on one segment each day. Read the story and review the summary tables.
-2.  **Weekend Revision:** At the end of the week, quickly read through all the segments to connect the dots and see the bigger picture.
-3.  **Practice for Exams:** Before your exams, use the "Quick Reference" tables in each section to practice recalling key facts and figures.
-
-This simple plan uses **spaced repetition**—a science-backed way to ensure you remember what you learn.
-
----
 
 ### ✨ You've Got This!
 

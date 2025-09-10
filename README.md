@@ -38,7 +38,7 @@
 | Chapter | Sub-topics | Status |
 |---------|------------|--------|
 | **[7. Medieval India](./7.medieval-india/)** | | |
-| └── **[a. The Cholas](./7.medieval-india/a.cholas/)** | Rajaraja I, Rajendra I, Brihadishwara Temple | 🔄 Coming Soon |
+| └── **[a. The Cholas](./7.medieval-india/a.cholas/)** | Rajaraja I, Rajendra I, Brihadishwara Temple | ✅ **Available** |
 | └── **[b. Delhi Sultanate](./7.medieval-india/b.delhi-sultanate/)** | Qutbuddin Aibak, Alauddin Khilji, Muhammad Bin Tughlaq | 🔄 Coming Soon |
 | └── **[c. Mughal Empire](./7.medieval-india/c.mughal-empire/)** | Babur, Akbar, Aurangzeb, Taj Mahal | 🔄 Coming Soon |
 | └── **[d. Composite Culture](./7.medieval-india/d.composite-culture/)** | Bhakti Movements, Sufism, Christianity influence | 🔄 Coming Soon |
